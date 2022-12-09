@@ -1,0 +1,58 @@
+[
+	{
+		"_id": "5d7a514b5d2c12c7449be042",
+		"name": "Admin Account",
+		"email": "admin@infosys.com",
+		"role": "admin",
+		"password": "123456",
+		"company":"63918624922f01b1d1320087"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be043",
+		"name": "Admin Account",
+		"email": "admin@ibm.com",
+		"role": "admin",
+		"password": "123456",
+		"company":"63918624922f01b1d1320088"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be044",
+		"name": "Admin Account",
+		"email": "admin@tcs.com",
+		"role": "admin",
+		"password": "123456",
+		"company":"63918624922f01b1d1320086"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be045",
+		"name": "Ashwani Kumar",
+		"email": "ashwani@infosys.com",
+		"role": "user",
+		"password": "123456",
+		"company":"63918624922f01b1d1320087"
+	},
+	{
+		"_id": "5d7a514b5d2c12c7449be046",
+		"name": "Kevin Smith",
+		"email": "kevin@ibm.com",
+		"role": "user",
+		"password": "123456",
+		"company":"63918624922f01b1d1320088"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc031",
+		"name": "Vikas",
+		"email": "vikas@ibm.com",
+		"role": "user",
+		"password": "123456",
+		"company":"63918624922f01b1d1320088"
+	},
+	{
+		"_id": "5c8a1d5b0190b214360dc032",
+		"name": "Pankaj",
+		"email": "pankaj@tcs.com",
+		"role": "user",
+		"password": "123456",
+		"company":"63918624922f01b1d1320086"
+	}
+]

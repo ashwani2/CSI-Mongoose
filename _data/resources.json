@@ -1,0 +1,14 @@
+[
+	{
+	  "_id":"639186e667f52ab64c422c79",		
+	  "resource_name": "Ec2"
+	},
+	{
+	  "_id":"639186e667f52ab64c422c7a",
+	  "resource_name": "S3"
+	},
+	{
+	  "_id":"639186e667f52ab64c422c7b",
+	  "resource_name": "Load Balancer"
+	}
+   ]

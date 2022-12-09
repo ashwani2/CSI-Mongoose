@@ -1,0 +1,47 @@
+[
+	{
+	  "website": "http://www.tcs_banglore.com",
+	  "phone": "23333333",
+	  "email": "tcs_banglore@tcs.com",
+	  "address":"Brown Street",
+	  "founding_year": 2005,
+	  "no_of_employees": 150,
+	  "company": "63918624922f01b1d1320086"
+	},
+	{
+	  "website": "http://www.tcs_ahemdabad.com",
+	  "phone": "23333334",
+	  "email": "tcs_ahemdabad@tcs.com",
+	  "address":"Black Street",
+	  "founding_year": 2006,
+	  "no_of_employees": 450,
+	  "company": "63918624922f01b1d1320086"
+	},
+	{
+	  "website": "http://www.tcs_hyderabad.com",
+	  "phone": "23333333",
+	  "email": "tcs_hyderabad@tcs.com",
+	  "address":"Orange Street",
+	  "founding_year": 2007,
+	  "no_of_employees": 430,
+	  "company": "63918624922f01b1d1320086"
+	},
+	{
+	  "website": "http://www.tcs_gurugram.com",
+	  "phone": "23333333",
+	  "email": "tcs_gurugram@tcs.com",
+	  "address":"Yellow Street",
+	  "founding_year": 2003,
+	  "no_of_employees": 980,
+	  "company": "63918624922f01b1d1320086"
+	},
+	{
+	  "website": "http://www.tcs_noida.com",
+	  "phone": "23333333",
+	  "email": "tcs_noida@tcs.com",
+	  "address":"Blue Street",
+	  "founding_year": 2009,
+	  "no_of_employees": 112,
+	  "company": "63918624922f01b1d1320086"
+	}
+  ]

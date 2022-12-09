@@ -1,0 +1,47 @@
+[
+	{
+	  "website": "http://www.infosys_banglore.com",
+	  "phone": "23333333",
+	  "email": "infosys_banglore@infosys.com",
+	  "address":"Bhura Street",
+	  "founding_year": 2005,
+	  "no_of_employees": 150,
+	  "company": "63918624922f01b1d1320087"
+	},
+	{
+	  "website": "http://www.infosys_ahemdabad.com",
+	  "phone": "23333334",
+	  "email": "infosys_ahemdabad@infosys.com",
+	  "address":"Kaala Street",
+	  "founding_year": 2006,
+	  "no_of_employees": 450,
+	  "company": "63918624922f01b1d1320087"
+	},
+	{
+	  "website": "http://www.infosys_hyderabad.com",
+	  "phone": "23333333",
+	  "email": "infosys_hyderabad@infosys.com",
+	  "address":"Santri Street",
+	  "founding_year": 2007,
+	  "no_of_employees": 430,
+	  "company": "63918624922f01b1d1320087"
+	},
+	{
+	  "website": "http://www.infosys_gurugram.com",
+	  "phone": "23333333",
+	  "email": "infosys_gurugram@infosys.com",
+	  "address":"Peela Street",
+	  "founding_year": 2003,
+	  "no_of_employees": 980,
+	  "company": "63918624922f01b1d1320087"
+	},
+	{
+	  "website": "http://www.infosys_noida.com",
+	  "phone": "23333333",
+	  "email": "infosys_noida@infosys.com",
+	  "address":"Neela Street",
+	  "founding_year": 2009,
+	  "no_of_employees": 112,
+	  "company": "63918624922f01b1d1320087"
+	}
+  ]

@@ -1,0 +1,47 @@
+[
+	{
+	  "website": "http://www.ibm_banglore.com",
+	  "phone": "23333333",
+	  "email": "ibm_banglore@ibm.com",
+	  "address":"Red Street",
+	  "founding_year": 2005,
+	  "no_of_employees": 150,
+	  "company": "63918624922f01b1d1320088"
+	},
+	{
+	  "website": "http://www.ibm_ahemdabad.com",
+	  "phone": "23333334",
+	  "email": "ibm_ahemdabad@ibm.com",
+	  "address":"Pink Street",
+	  "founding_year": 2006,
+	  "no_of_employees": 450,
+	  "company": "63918624922f01b1d1320088"
+	},
+	{
+	  "website": "http://www.ibm_hyderabad.com",
+	  "phone": "23333333",
+	  "email": "ibm_hyderabad@ibm.com",
+	  "address":"Cyan Street",
+	  "founding_year": 2007,
+	  "no_of_employees": 430,
+	  "company": "63918624922f01b1d1320088"
+	},
+	{
+	  "website": "http://www.ibm_gurugram.com",
+	  "phone": "23333333",
+	  "email": "ibm_gurugram@ibm.com",
+	  "address":"Violet Street",
+	  "founding_year": 2003,
+	  "no_of_employees": 980,
+	  "company": "63918624922f01b1d1320088"
+	},
+	{
+	  "website": "http://www.ibm_noida.com",
+	  "phone": "23333333",
+	  "email": "ibm_noida@ibm.com",
+	  "address":"Green Street",
+	  "founding_year": 2009,
+	  "no_of_employees": 112,
+	  "company": "63918624922f01b1d1320088"
+	}
+  ]
